@@ -1,0 +1,13 @@
+a:link{color:#990000;}
+a:visited{color:#990000;}
+a:hover{color:#CC2900;}
+a:active{color:#990000;}
+ul{list-style-type:none;float:left;font-size:25pt;background-color:gray;text-align:left;margin-top:40px;}
+b{color:#800000;text-decoration:underline;}
+body{background-image:url('gears3cogemblemlancer.jpg');background-repeat:repeat-y;background-color:gray;text-align:center;font-family:Trebuchet MS;}
+h1{color:#990000;text-decoration:underline;}
+div{margin-left:275px;font-size:15pt;}
+div>ul{list-style-type:none;font-size:15pt;text-align:left;}
+div>ul>b{color:black;}
+body>ul{width:2in;}
+dl{text-align:left;}
